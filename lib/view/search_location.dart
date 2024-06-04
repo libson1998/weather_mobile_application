@@ -85,7 +85,7 @@ class _SearchLocationScreenState extends State<SearchLocationScreen> {
                           contentPadding:
                               const EdgeInsets.symmetric(horizontal: 16),
                           fillColor: Colors.grey.withOpacity(0.2),
-                          keyboardType: TextInputType.emailAddress,
+                          keyboardType: TextInputType.text,
                           hintStyle: GoogleFonts.inter(
                               fontSize: 14,
                               color: const Color(0xff80000000),
